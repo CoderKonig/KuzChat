@@ -11,6 +11,8 @@ import {useCollectionData} from 'react-firebase-hooks/firestore';
 
 //Firebase configuration and initialization for Web apps
 //set up from Firestore settings
+
+
 firebase.initializeApp({
   apiKey: "AIzaSyDJkeXzNyJl8CYzy3ZR5MhWZlDkaw77BxI",
   authDomain: "kuzchat-30c12.firebaseapp.com",
@@ -19,6 +21,7 @@ firebase.initializeApp({
   messagingSenderId: "249292166305",
   appId: "1:249292166305:web:bfaf54e0dae227082c0ce0"
 })
+
 
 //Storing as global variables auth and firestore
 const auth = firebase.auth();

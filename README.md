@@ -2,6 +2,7 @@
 Project created with React and Firebase alongside Google Authentication
 
 ## Available Scripts
+After using `git clone https://github.com/CoderKonig/KuzChat.git`:
 
 In the project directory, you can run:
 
