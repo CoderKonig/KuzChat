@@ -39,6 +39,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p> Welcome to KuzChat!</p>
+        <textarea> Rate the Conversation!</textarea>
         <SignOut/>
         
       </header>
